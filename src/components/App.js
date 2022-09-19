@@ -95,7 +95,7 @@ const sampleRecipes = [
   },
   {
     id: 2,
-    name: 'Plain Pork',
+    name: 'Plain Lamb',
     servings: 5,
     cookTime: '0:45',
     instructions: "1. Put paprika on lamb\n2. Put lamb in oven\n3. Eat lamb",
